@@ -28,4 +28,4 @@ Top Performing Region: Asia (61.73% of total revenue)
 
 Top Store: Store 1
 
-Top Sales Rep: Yui M. (32.06M revenue)
+Top Sales Rep: Yui (32.06M revenue)
